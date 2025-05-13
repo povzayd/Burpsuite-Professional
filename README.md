@@ -17,7 +17,7 @@
 
 # $${\color{cyan}Install}$$
 ```sh
-wget -qO- https://raw.githubusercontent.com/xiv3r/Burpsuite-Professional/main/install.sh | sudo bash
+git clone https://github.com/povzayd/Burpsuite-Professional.git && cd Burpsuite-Professional && chmod +x install.sh && ./install.sh
 ```
 # $${\color{cyan}Run}$$
 ```sh
