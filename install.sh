@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Installing Dependencies
-echo "Installing Dependencies..."
+# echo "Installing Dependencies..."
 sudo apt update
-sudo apt install git axel openjdk-21-jre -y
+sudo apt install git axel wget-y
 
 # Cloning
 #git clone https://github.com/xiv3r/Burpsuite-Professional.git 
